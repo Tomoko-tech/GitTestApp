@@ -15,6 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("Tomoko-techより変更1回目")
         print("takatomo123456より変更2回目")
+        print("Tomoko-techより変更3回目")
     }
 
 
